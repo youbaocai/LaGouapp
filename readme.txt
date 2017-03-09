@@ -1,5 +1,4 @@
-Git is a version control system.--ybc
-Git is free software.--ybc
-Git is a distributed version control system.
-Git is free software
-ybc is a handsome boy
+This is a project for LaGouApp.
+author:ybc.
+date:09/03/2017.
+module:angular.js.
